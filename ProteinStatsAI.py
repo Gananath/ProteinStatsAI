@@ -3,7 +3,7 @@
 #https://github.com/Gananath/ProteinStatsAI
 
 from keras.models import Sequential
-from keras.layers import Dense,Dropout, Activation, Convolution1D, MaxPooling1D,Embedding,Flatten
+from keras.layers import Dense,Dropout, Activation
 from keras.optimizers import RMSprop
 import pandas as pd
 import numpy as np
