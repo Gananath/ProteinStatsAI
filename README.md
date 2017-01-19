@@ -10,7 +10,7 @@ Keras(Theano)
 
 Pandas
 
-h5py
+h5py (optional)
 
 Scikit-Learn
 
