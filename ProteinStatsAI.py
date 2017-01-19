@@ -120,7 +120,7 @@ for i in range(0,ncv):
     #accuracy,loss calculation
     los=np.mean(np.array(history.history['val_loss']))
     lscore=np.append(los,lscore)
-    break
+    
 
 #average
 lavg=np.mean(lscore)
