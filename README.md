@@ -1,7 +1,7 @@
 # ProteinStatsAI
 Prediction of protein statistics and properties using neural networks.
 
-more about DrugAI..
+more about ProteinStatsAI..
 [http://gananath.github.io/proteinstatai.html](http://gananath.github.io/proteinstatai.html)
 #Requirments
 Python 2.7
